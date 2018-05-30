@@ -1,0 +1,7 @@
+---
+- name: Stop RabbitMQ server
+  service:
+    name: 'rabbitmq-server'
+    state: stopped
+  become: true
+  become_user: root

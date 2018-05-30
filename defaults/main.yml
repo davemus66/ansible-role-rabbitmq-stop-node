@@ -1,0 +1,4 @@
+---
+# defaults file for ansible-role-rabbitmq-stop-node
+git_host: ncl-devops-git.eu.hpecorp.net
+git_project: eon

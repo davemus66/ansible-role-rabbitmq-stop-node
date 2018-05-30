@@ -1,0 +1,3 @@
+---
+
+- include: ./ansible-role-rabbitmq-stop-node/roles/ansible-role-rabbitmq-stop-node

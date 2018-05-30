@@ -1,0 +1,5 @@
+---
+
+- src: git@github.com:davemus66/ansible-role-rabbitmq-stop-node.git
+   scm: git
+   version: master
